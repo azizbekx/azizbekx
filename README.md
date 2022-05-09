@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 <!-- - 🔭 I’m currently working on ... -->
 - 🌱 I’m currently learning Algorithms and Data Structures
-- 🌟 My telegram channel: https://t.me/xmazizbek
+- 🌟 My telegram channel: https://t.me/azizbekx
 - 📫 How to reach me: xmazizbek@gmail.com
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
